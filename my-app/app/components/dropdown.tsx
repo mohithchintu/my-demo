@@ -37,7 +37,6 @@ export const Example = () => {
                     <DropdownItem
                         key="new"
                         description="Create a new file"
-                        shortcut="⌘N"
                         startContent={<AddNoteBulkIcon className={iconClasses} />}
                     >
                         New file
@@ -45,7 +44,6 @@ export const Example = () => {
                     <DropdownItem
                         key="edit"
                         description="Allows you to edit the file"
-                        shortcut="⌘⇧E"
                         startContent={<EditDocumentBulkIcon className={iconClasses} />}
                     >
                         Edit profile
@@ -57,7 +55,6 @@ export const Example = () => {
                         className="text-danger"
                         color="danger"
                         description="Permanently delete the file"
-                        shortcut="⌘⇧D"
                         startContent={
                             <DeleteDocumentBulkIcon
                                 className={clsx(iconClasses, "!text-danger")}
