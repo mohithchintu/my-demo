@@ -1,10 +1,12 @@
-import React from 'react'
+"use client"
+import React, { useState } from 'react'
 
 const TimeLinepage = () => {
+    const [isVisible, setIsVisible] = useState(false);
     return (
-        <div>
-            Timeline
-        </div>
+        <>
+            helfkjjkd
+        </>
     )
 }
 

@@ -1,9 +1,12 @@
 import React from 'react'
+import { Example } from '../components/dropdown'
+import Avat from '../components/avatar'
 
 const Pplpage = () => {
     return (
         <div>
-            People
+            <Avat />
+            <Example />
         </div>
     )
 }
