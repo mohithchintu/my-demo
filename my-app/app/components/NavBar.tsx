@@ -59,7 +59,7 @@ const NavBar = () => {
                             color="secondary"
                             name="Jason Hughes"
                             size="sm"
-                            src="https://i.pravatar.cc/150?u=a042581f4e29026704d"
+                            src="/chintu.jpg"
                         />
                     </DropdownTrigger>
                     <DropdownMenu aria-label="Profile Actions" variant="flat">
