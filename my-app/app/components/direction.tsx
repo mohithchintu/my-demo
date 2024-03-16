@@ -8,7 +8,7 @@ import { DirectionAwareHover } from "./UI/direction-hover";
 
 export function DirectionHover() {
     const imageUrl =
-        "/mainpic.jpg";
+        "/picmain.jpg";
     return (
         <div className="h-[40rem] relative  flex items-center justify-center">
             <DirectionAwareHover imageUrl={imageUrl}>

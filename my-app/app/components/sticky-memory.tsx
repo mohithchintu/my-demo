@@ -27,7 +27,7 @@ const content = [
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
-                    src="/vercel.svg"
+                    src="/bottels.svg"
                     width={300}
                     height={300}
                     className="h-full w-full object-cover"
@@ -59,7 +59,7 @@ const content = [
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
-                    src="/next.svg"
+                    src="/picmain.svg"
                     width={300}
                     height={300}
                     className="h-full w-full object-cover"
