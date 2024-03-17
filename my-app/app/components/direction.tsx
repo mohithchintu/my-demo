@@ -12,8 +12,8 @@ export function DirectionHover() {
     return (
         <div className="h-[40rem] relative  flex items-center justify-center">
             <DirectionAwareHover imageUrl={imageUrl}>
-                <p className="font-bold text-xl">In the mountains</p>
-                <p className="font-normal text-sm">Ideal Trip</p>
+                <p className="font-bold text-xl">In the memories</p>
+                <p className="font-normal text-sm">The pic is apic</p>
             </DirectionAwareHover>
         </div>
     );

@@ -5,9 +5,9 @@ import Image from "next/image";
 
 const content = [
     {
-        title: "Collaborative Editing",
+        title: "Idoit no 1",
         description:
-            "Work together in real time with your team, clients, and stakeholders. Collaborate on documents, share ideas, and make decisions quickly. With our platform, you can streamline your workflow and increase productivity.",
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
@@ -21,13 +21,13 @@ const content = [
         ),
     },
     {
-        title: "Real time changes",
+        title: "Nothing",
         description:
-            "See changes as they happen. With our platform, you can track every modification in real time. No more confusion about the latest version of your project. Say goodbye to the chaos of version control and embrace the simplicity of real-time updates.",
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
-                    src="/bottels.svg"
+                    src="/picmain.jpg"
                     width={300}
                     height={300}
                     className="h-full w-full object-cover"
@@ -37,9 +37,9 @@ const content = [
         ),
     },
     {
-        title: "Version control",
+        title: "Memories",
         description:
-            "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
@@ -53,13 +53,13 @@ const content = [
         ),
     },
     {
-        title: "Running out of content",
+        title: "Non drinkers",
         description:
-            "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         content: (
             <div className="h-full w-full  flex items-center justify-center text-white">
                 <Image
-                    src="/picmain.svg"
+                    src="/bottels.jpg"
                     width={300}
                     height={300}
                     className="h-full w-full object-cover"

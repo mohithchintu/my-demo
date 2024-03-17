@@ -33,6 +33,11 @@ const NavBar = () => {
                             Contact Us
                         </Link>
                     </NavbarItem>
+                    <NavbarItem isActive={currentpath === "/signup"}>
+                        <Link color="foreground" href="/signup">
+                            Sign Up
+                        </Link>
+                    </NavbarItem>
                 </NavbarContent>
             </NavbarContent>
 

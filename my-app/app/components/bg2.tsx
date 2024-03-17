@@ -286,15 +286,14 @@ const SkeletonFive = () => {
                     className="rounded-full h-10 w-10"
                 />
                 <p className="text-xs text-neutral-500">
-                    There are a lot of cool framerworks out there like React, Angular,
-                    Vue, Svelte that can make your life ....
+                    Wait and see this memories in future and share the experience with your families.
                 </p>
             </motion.div>
             <motion.div
                 variants={variantsSecond}
                 className="flex flex-row rounded-full border border-neutral-100 dark:border-white/[0.2] p-2 items-center justify-end space-x-2 w-3/4 ml-auto bg-white dark:bg-black"
             >
-                <p className="text-xs text-neutral-500">Use PHP.</p>
+                <p className="text-xs text-neutral-500">Use deaktop for now.</p>
                 <div className="h-6 w-6 rounded-full bg-gradient-to-r from-pink-500 to-violet-500 flex-shrink-0" />
             </motion.div>
         </motion.div>
@@ -313,10 +312,10 @@ const items = [
         icon: <IconClipboardCopy className="h-4 w-4 text-neutral-500" />,
     },
     {
-        title: "Automated Proofreading",
+        title: "Very Joke",
         description: (
             <span className="text-sm">
-                Let AI handle the proofreading of your documents.
+                A day without a laughter is a day wasted.
             </span>
         ),
         header: <SkeletonTwo />,
@@ -324,10 +323,10 @@ const items = [
         icon: <IconFileBroken className="h-4 w-4 text-neutral-500" />,
     },
     {
-        title: "Contextual Suggestions",
+        title: "Benchmates",
         description: (
             <span className="text-sm">
-                Get AI-powered suggestions based on your writing context.
+                Special connections with bench.
             </span>
         ),
         header: <SkeletonThree />,
@@ -347,10 +346,10 @@ const items = [
     },
 
     {
-        title: "Text Summarization",
+        title: "Still work",
         description: (
             <span className="text-sm">
-                Summarize your lengthy documents with AI technology.
+                Content chaala undhi so work kuda chaala untundhi.
             </span>
         ),
         header: <SkeletonFive />,
